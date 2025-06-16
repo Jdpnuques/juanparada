@@ -7,15 +7,15 @@ Pursuing my Master’s in Data Science & Analytics.
 
 ## 📊 Featured Projects
 
-### 🏠 House Price Prediction (Coming Soon)
+### 🏠 House Price Prediction 
 - **Tools Used**: Python, Pandas, Scikit-learn, Matplotlib
 - Built a regression model to predict house prices using feature engineering, data visualization, and model evaluation techniques.
 
-### 🎵 Spotify User Engagement Analytics (Coming Soon)
+### 🎵 Spotify User Engagement Analytics 
 - **Tools Used**: SQL, Power BI, Excel
 - Created interactive dashboards to track user activity, daily streaming trends, and segmented user behavior for marketing insights.
 
-### ⚙️ Workflow Automation with Python APIs (Coming Soon)
+### ⚙️ Workflow Automation with Python APIs 
 - **Tools Used**: Python, REST APIs
 - Developed a script that automated data integration between platforms, reducing manual processing by 30%.
 
